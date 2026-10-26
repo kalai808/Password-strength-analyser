@@ -1,4 +1,0 @@
-# No third-party Python packages are required.
-# The project uses only Python standard-library modules:
-# re
-# getpass
